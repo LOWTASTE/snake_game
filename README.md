@@ -1,3 +1,3 @@
 # snake_game
 java gui practice!
-[Image text](https://github.com/your_github/address/blob/master/image/1.png)
+[预览图](https://github.com/LOWTASTE/snake_game/blob/master/src/static_pic/body.png)
